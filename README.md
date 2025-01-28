@@ -1,5 +1,5 @@
-# Grandeur Tailors Website
-This is a multi-page website for a fashion design brand. Grandeur Tailors is a Nigeria-based custom tailor shop with a strong commitment to excellence.
+# SANJAY Tailors Website
+This is a multi-page website for a fashion design brand. Sanjay Tailors is a Nigeria-based custom tailor shop with a strong commitment to excellence.
 
 ## Pages
 - Home
@@ -11,7 +11,7 @@ This is a multi-page website for a fashion design brand. Grandeur Tailors is a N
 ![](./assets/screenshot.png)
 
 ## Live Site
-- Live Site URL: http://grandeurtailors.com/
+- Live Site URL: https://amitbhai9161.github.io/Sanjay-tailors/)
 
 ## Built with
 
